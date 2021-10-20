@@ -52,4 +52,6 @@ const statuses = [
 	},
 ];
 
-export { data, statuses };
+const ITEM_TYPE = "ITEM";
+
+export { data, statuses, ITEM_TYPE };
